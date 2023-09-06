@@ -1,4 +1,4 @@
 const add= function add(a,b){
     console.log(a+b);
 }
-export {add};
+export  default add;
